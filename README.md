@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/interactive-newsletter-sign-up-form-Vt-p5it-yh]
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-newsletter-sign-up-form-de-S3sE_pF]
 - Live Site URL: [https://newsletter-sign-up-gilt.vercel.app/]
 
 

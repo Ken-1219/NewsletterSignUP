@@ -72,7 +72,9 @@ div.img {
 
 .emailInput {
     font-size: 12px;
+    margin-top: 20px;
     margin-bottom: 0;
+    font-weight: bolder;
 }
 
 #input_box::placeholder {
